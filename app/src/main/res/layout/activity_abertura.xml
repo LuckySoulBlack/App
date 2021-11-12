@@ -9,10 +9,10 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="304dp"
-        android:layout_gravity="top"
+        android:layout_height="500dp"
+        android:layout_gravity="center"
         android:layout_marginTop="@dimen/cardview_compat_inset_shadow"
-        android:src="@drawable/ic_web" />
+        android:src="@drawable/ic_web"/>
 
     <TextView
         android:layout_width="wrap_content"
